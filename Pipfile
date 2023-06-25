@@ -11,6 +11,7 @@ psycopg2-binary = "*"
 sqlalchemy = "*"
 flask-sqlalchemy = "*"
 flask-login = "*"
+bcrypt = "*"
 
 [dev-packages]
 
